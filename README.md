@@ -14,3 +14,7 @@ Sabendo disso, eu como um cientista da computação e tendo conhecimentos sobre 
 automatizada para a loja e, para completar, dois gráficos mostrando os preços com desconto para cada cor de tinta de cada marca comprada.
 
 Assim, estou compartilhando meu trabalho com vocês nesse repositório no GitHub, que graças ao meu certificado de Excel conquistado pela plataforma Alura, consegui fazer esse trabalho sem dificuldades!
+
+## Tabela da loja Pintex:
+![image](https://github.com/user-attachments/assets/127fa589-b077-4fa0-8637-30f37cabe486)
+
