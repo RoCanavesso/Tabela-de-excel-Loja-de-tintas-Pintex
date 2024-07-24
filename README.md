@@ -13,4 +13,4 @@ A loja deixou bem claro algumas regras:
 Sabendo disso, eu como um cientista da computação e tendo conhecimentos sobre a ferramenta Microsoft Excel, tive o prazer de mostrar para a empresa que eu era capaz de fazer esse trabalho, criando uma tabela
 automatizada para a loja e, para completar, dois gráficos mostrando os preços com desconto para cada cor de tinta de cada marca comprada.
 
-Assim, estou compartilhando meu trabalho com vocês nesse repositório do GitHub, que graças ao meu certificado de Excel dna plataforma Alura, consegui fazer esse trabalho sem dificuldades!
+Assim, estou compartilhando meu trabalho com vocês nesse repositório no GitHub, que graças ao meu certificado de Excel conquistado pela plataforma Alura, consegui fazer esse trabalho sem dificuldades!
