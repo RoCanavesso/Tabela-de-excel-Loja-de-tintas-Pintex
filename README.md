@@ -18,8 +18,8 @@ Assim, estou compartilhando meu trabalho com vocês nesse repositório no GitHub
 ## Tabela da loja Pintex:
 ![image](https://github.com/user-attachments/assets/127fa589-b077-4fa0-8637-30f37cabe486)
 
-## Gráfico da marca Koral (Preços c/ desconto com Cores das tintas Koral):
+## Gráfico da marca Koral (Preços c/ desconto X Cores das tintas Koral):
 ![image](https://github.com/user-attachments/assets/54bc72cf-cf83-40b7-bc96-c16195119e94)
 
-## Gráfico da marca Zuvinil (Preços c/ desconto com Cores das tintas Zuvinil):
+## Gráfico da marca Zuvinil (Preços c/ desconto X Cores das tintas Zuvinil):
 ![image](https://github.com/user-attachments/assets/c8188b3f-1e42-48dd-b5ed-984ab0d29f1d)
