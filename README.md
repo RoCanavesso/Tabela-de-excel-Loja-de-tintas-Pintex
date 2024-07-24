@@ -1,4 +1,4 @@
-# Projeto para Loja de tintas Pintex
+# Projeto Loja de tintas Pintex
 
 Uma loja de tintas fictícia chamada "Pintex" precisava de uma ajuda, eles precisavam de alguém que soubesse criar uma tabela de estoque de tintas com seu fornecedor, 
 mostrando algumas informações importantes como: cores, marcas das tintas, tamanho das latas de tintas, preços unitários, preços com descontos do fornecedor e a quantia que iriam adquirir com o forcenedor.
