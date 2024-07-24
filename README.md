@@ -10,7 +10,7 @@ A loja deixou bem claro algumas regras:
 - A loja APENAS trabalha com as marcas Koral e Zuvinil;
 - A loja precisava das cores: Azul, Amarelo, Branco, Cinza, Laranja, Lilás, Marrom, Preto, Rosa, Roxo, Verde e Vermelho.
 
-Sabendo disso, eu como um cientista da computação e tendo conhecimentos sobre a ferramenta Microsoft Excel, tive o prazer de mostrar para a empresa que eu era capaz de fazer esse trabalho, fazendo uma tabela
+Sabendo disso, eu como um cientista da computação e tendo conhecimentos sobre a ferramenta Microsoft Excel, tive o prazer de mostrar para a empresa que eu era capaz de fazer esse trabalho, criando uma tabela
 automatizada para a loja e, para completar, dois gráficos mostrando os preços com desconto para cada cor de tinta de cada marca comprada.
 
 Assim, estou compartilhando meu trabalho com vocês nesse repositório do GitHub, que graças ao meu certificado de Excel dna plataforma Alura, consegui fazer esse trabalho sem dificuldades!
